@@ -1510,7 +1510,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <param name="mlMaxStopFrame" value="2.5mil"/>
 <param name="mlMinCreamFrame" value="0mil"/>
 <param name="mlMaxCreamFrame" value="0mil"/>
-<param name="mlViaStopLimit" value="12mil"/>
+<param name="mlViaStopLimit" value="10mil"/>
 <param name="srRoundness" value="0"/>
 <param name="srMinRoundness" value="0mil"/>
 <param name="srMaxRoundness" value="0mil"/>
@@ -2923,10 +2923,10 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <approved hash="19,16,6049d84568572059"/>
 <approved hash="19,16,d83890de22cc9a28"/>
 <approved hash="19,16,a3455c39e62f1f51"/>
-<approved hash="19,1,3b5b057ae466da47"/>
-<approved hash="19,1,3d053240d35cdc19"/>
-<approved hash="19,1,05010a46535a5c1d"/>
-<approved hash="19,1,035f3d7c64605a43"/>
+<approved hash="19,1,1905164dcd51c219"/>
+<approved hash="19,1,65026a78f364fc1e"/>
+<approved hash="19,1,1f5b2177fa6bc447"/>
+<approved hash="19,1,635c5d42c45efa40"/>
 </errors>
 </board>
 </drawing>
